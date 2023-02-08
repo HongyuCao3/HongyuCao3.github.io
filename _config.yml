@@ -1,5 +1,31 @@
-remote_theme: pages-themes/cayman@v0.2.0
+title: jekyll-rtd-theme
+description: Just another documentation theme compatible with GitHub Pages
+
+theme: null
+
+# debug:
+#   compress: true
+#   dist: false
+#   shortcodes: true
+
+readme_index:
+  with_frontmatter: true
+
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-title: [曹宏宇的个人博客]
-description: [技术分析，思维推导]
+  - jemoji
+  - jekyll-avatar
+  - jekyll-mentions
+
+exclude:
+  - Makefile
+  - CNAME
+  - LICENSE
+  - update.sh
+  - Gemfile
+  - Gemfile.lock
+  - requirements.txt
+  - node_modules
+  - package.json
+  - package-lock.json
+  - webpack.config.js
+  - jekyll-rtd-theme.gemspec
