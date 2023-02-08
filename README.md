@@ -1,3 +1,3 @@
 # HongyuCao3.github.io
 For blogging
-theme: minima
+theme: Cayman
