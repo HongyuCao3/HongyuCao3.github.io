@@ -26,6 +26,7 @@
     Bart tokenize : 
     [('And', 'CC'), ('Ġnow', 'VB'), ('Ġfor', 'JJ'), ('Ġsomething', 'VBG'), ('Ġcompletely', 'RB'), ('Ġdifferent', 'JJ')]
     ```
+
  ## 结果分析
  - 可以明显的看出两个tokenizer得到的分词结果不同，bart分词的结果有奇怪的字符`Ġ`出现，具体原因有待进一步探索。
  - 分词之后的词性标注不完全相同，如果希望使用那么可能需要<font color = red>根据nltk分词标注的span去获得深度学习模型分词的标注结果</font>，这一思路在。
