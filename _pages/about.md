@@ -6,12 +6,12 @@ subtitle: PhD Student at <a href='https://www.asu.edu/'>Arizona State University
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: photo.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Arizona State University</p>
     <p>Tempe, Arizona, USA</p>
-    <p>pb18111726@mail.ustc.edu.cn</p>
+    <p>hongyuca@asu.edu</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
