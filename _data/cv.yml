@@ -10,7 +10,7 @@
   type: time_table
   contents:
     - title: PhD in Computer Science
-      institution: Arizona State University, Tempe, Arizona, USA
+      institution: Clemson University, Clemson, South Carolina, USA
       year: 2026 -
       description:
         - Advisor research in Deep Learning and Machine Learning.
@@ -24,13 +24,6 @@
       year: 2018 - 2022
       description:
         - GPA 3.59/4.30, top 30%
-
-- title: Internship
-  type: time_table
-  contents:
-    - title: Natural Language Processing Internship
-      institution: Iflytek, Institute of Artificial Intelligence, Hefei, China
-      year: 2022
 
 - title: Publications
   type: time_table

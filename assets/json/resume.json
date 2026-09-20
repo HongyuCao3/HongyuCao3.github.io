@@ -3,14 +3,14 @@
     "name": "Hongyu Cao",
     "label": "PhD Student in Computer Science",
     "image": "",
-    "email": "hongyuca@asu.edu",
+    "email": "hcao2@clemson.edu",
     "phone": "+86 182 2050 1663",
     "url": "https://HongyuCao3.github.io",
-    "summary": "PhD student in Computer Science at Arizona State University. Research interests in Deep Learning, Machine Learning, and Large Language Models.",
+    "summary": "PhD student in Computer Science at Clemson University. Research interests in Deep Learning, Machine Learning, and Large Language Models.",
     "location": {
-      "city": "Tempe",
+      "city": "Clemson",
       "countryCode": "US",
-      "region": "Arizona"
+      "region": "South Carolina"
     },
     "profiles": [
       {
@@ -20,21 +20,12 @@
       }
     ]
   },
-  "work": [
-    {
-      "name": "Iflytek, Institute of Artificial Intelligence",
-      "position": "Natural Language Processing Intern",
-      "startDate": "2022-10-01",
-      "endDate": "2022-10-31",
-      "summary": "Internship in natural language processing at the Institute of Artificial Intelligence, Hefei.",
-      "location": "Hefei, China"
-    }
-  ],
+  "work": [],
   "education": [
     {
-      "institution": "Arizona State University",
-      "location": "Tempe, Arizona, USA",
-      "url": "https://www.asu.edu/",
+      "institution": "Clemson University",
+      "location": "Clemson, South Carolina, USA",
+      "url": "https://www.clemson.edu/",
       "area": "Computer Science",
       "studyType": "PhD",
       "startDate": "2026-01-01",

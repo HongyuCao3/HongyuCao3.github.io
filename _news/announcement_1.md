@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started my PhD in Computer Science at Arizona State University!
+Transferred to Clemson University to continue my PhD in Computer Science!

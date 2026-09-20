@@ -9,7 +9,7 @@ last_name: Cao
 contact_note: >
   Feel free to reach out via email for research collaborations or inquiries.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  PhD Student in Computer Science at Arizona State University. Research interests: Deep Learning, Machine Learning, LLMs.
+  PhD Student in Computer Science at Clemson University. Research interests: Deep Learning, Machine Learning, LLMs.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
