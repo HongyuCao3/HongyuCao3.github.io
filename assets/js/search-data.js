@@ -437,8 +437,8 @@ ninja.data = [{
           section: "News",},{id: "news-paper-enhancing-llms-decision-making-for-supply-chain-with-cluster-and-rag-accepted-at-bigdata-2025",
           title: 'Paper “Enhancing LLMs Decision-making for Supply Chain with Cluster and RAG” accepted at...',
           description: "",
-          section: "News",},{id: "news-started-my-phd-in-computer-science-at-arizona-state-university",
-          title: 'Started my PhD in Computer Science at Arizona State University!',
+          section: "News",},{id: "news-transferred-to-clemson-university-to-continue-my-phd-in-computer-science",
+          title: 'Transferred to Clemson University to continue my PhD in Computer Science!',
           description: "",
           section: "News",},{id: "projects-desentiment",
           title: 'Desentiment',
@@ -455,7 +455,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%68%6F%6E%67%79%75%63%61@%61%73%75.%65%64%75", "_blank");
+          window.open("mailto:%68%63%61%6F%32@%63%6C%65%6D%73%6F%6E.%65%64%75", "_blank");
         },
       },{
         id: 'social-github',
